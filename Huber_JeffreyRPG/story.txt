@@ -1,0 +1,25 @@
+1|It is a 0-0 count| 2 | 3
+2|You take the pitch ball 1 count 1-0.| 4 | 5
+3|You swing and miss strike 1 count 0-1.| 6 | 7
+4|You take called strike count 1-1.| 8 | 9
+5|You swing and hit it, foul ball count 1-1.| 8 | 10
+6|You take called strike count 0-2| 11 | 12
+7|You swing and hit it, foul ball count 0-2| 13 | 12
+8|You take the pitch ball 2 count 2-1| 14 | 15
+9|You swing and hit it, ground out| -1 | -1
+10|You swing and miss count 1-2| 16 | 17
+11|You take called strike 3 your out| -1 | -1
+12|You swing and miss your out| -1 | -1
+13|You take called ball count 1-2| 18 | 19
+14|You take called ball count 3-1| 20 | 21
+15|You swing and miss count 2-2| 22 | 23
+16|You take called ball strike 3 you're out| -1 | -1
+17|You swing and hit a double| -1 | -1
+18|You take called ball count 2-2| 24 | 25
+19|You swing and hit a single| -1 | -1
+20|You take ball 4 that's a walk| -1 | -1
+21|You swing pop fly you're out| -1 | -1
+22|You take strike 3 you're out| -1 | -1
+23|You swing and hit a HOMERUN| -1 | -1
+24|You take strike 3 you're out| -1 | -1
+25|You swing and hit a triple| -1 | -1
